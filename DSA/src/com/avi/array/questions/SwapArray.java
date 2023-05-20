@@ -6,7 +6,7 @@ public class SwapArray {
 	
 	public static void main(String[] args) {
 		int[] a = {2, 23, 45, 244, 45};
-		swapArray(a, 1, 3);
+		swapArray(a, 0, 4);
 		
 		System.out.println(Arrays.toString(a));
 	}
